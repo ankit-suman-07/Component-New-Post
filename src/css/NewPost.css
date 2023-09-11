@@ -1,0 +1,14 @@
+.new-post {
+    /* border: 2px solid black; */
+    width: 100vw;
+    height: 90vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.post-left {
+    border: 2px solid black;
+    width: 400px;
+    height: 400px;
+}
